@@ -12,7 +12,9 @@ A high-performance, visually stunning web application designed for modern educat
 
 ## ⚡ Live Demo
 🚀 **Explore the interactive demo here:**  
-[**https://pallavijadar.github.io/School-Attendance-Academic-Report-System/**](https://pallavijadar.github.io/School-Attendance-Academic-Report-System/)
+[**System/**](https://pallavijadar.github.io/School-Attendance-Academic-Report-System/)
+> [!TIP]
+> **Live Demo:** [Click Here to View the Interactive System](https://pallavijadar.github.io/School-Attendance-Academic-Report-)
 
 ---
 
